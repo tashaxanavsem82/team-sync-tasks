@@ -18,6 +18,6 @@ We appreciate your interest in contributing to Team Sync Tasks! Here are some gu
 - Ensure that your tests are documented where necessary.
 
 ## Issues
-If you find any issues or bugs, feel free to submit them in the Issues section of the repository.
+If you find any issues or bugs, please provide a clear description and steps to reproduce in the Issues section of the repository. Feel free to label the issue based on its severity.
 
 Thank you for contributing!
