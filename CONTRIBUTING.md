@@ -13,6 +13,10 @@ We appreciate your interest in contributing to Team Sync Tasks! Here are some gu
 - Follow the existing code style and structure.
 - Write clear and concise commit messages.
 
+## Testing
+- Include unit tests for any new functionalities.
+- Ensure that your tests are documented where necessary.
+
 ## Issues
 If you find any issues or bugs, feel free to submit them in the Issues section of the repository.
 
