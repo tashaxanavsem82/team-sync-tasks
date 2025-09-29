@@ -4,7 +4,7 @@ We appreciate your interest in contributing to Team Sync Tasks! Here are some gu
 
 ## How to Contribute
 1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
+2. Create a new branch for your feature or bug fix.
 3. Make your changes.
 4. Test your changes thoroughly.
 5. Submit a pull request with a detailed description of your changes.
