@@ -6,7 +6,7 @@ We appreciate your interest in contributing to Team Sync Tasks! Here are some gu
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes.
-4. Test your changes thoroughly.
+4. Test your changes thoroughly. **Ensure all tests pass before submission.**
 5. Submit a pull request with a detailed description of your changes.
 
 ## Code Style
