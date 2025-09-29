@@ -7,7 +7,7 @@ We appreciate your interest in contributing to Team Sync Tasks! Here are some gu
 2. Create a new branch for your feature or bugfix.
 3. Make your changes.
 4. Test your changes thoroughly.
-5. Submit a pull request.
+5. Submit a pull request with a detailed description of your changes.
 
 ## Code Style
 - Follow the existing code style and structure.
