@@ -1,6 +1,6 @@
 {
   "name": "team-sync-tasks",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A collaborative tool for managing tasks and projects.",
   "main": "index.js",
   "scripts": {
