@@ -11,7 +11,7 @@ We appreciate your interest in contributing to Team Sync Tasks! Here are some gu
 
 ## Code Style
 - Follow the existing code style and structure.
-- Write clear and concise commit messages.
+- Write clear and concise commit messages, including details about the purpose of the changes.
 
 ## Testing
 - Include unit tests for any new functionalities.
